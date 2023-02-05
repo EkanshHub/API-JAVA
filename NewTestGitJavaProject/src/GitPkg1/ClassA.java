@@ -6,7 +6,9 @@ public class ClassA {
 		// TODO Auto-generated method stub
 
 		
-		System.out.println("I am tge main method");
+		System.out.println("I am tee main method");
+		
+		System.out.println("I am the main method2");
 	}
 
 }
