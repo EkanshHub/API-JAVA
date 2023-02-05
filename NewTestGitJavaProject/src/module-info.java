@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author eagra
+ *
+ */
+module NewTestGitJavaProject {
+}
