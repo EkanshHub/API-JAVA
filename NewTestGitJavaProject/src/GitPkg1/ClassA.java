@@ -8,7 +8,7 @@ public class ClassA {
 		
 		System.out.println("I am tee main method");
 		
-		System.out.println("I am the main method2");
+		System.out.println("I am the maain method2");
 	}
 
 }
